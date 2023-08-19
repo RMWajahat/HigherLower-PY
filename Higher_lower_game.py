@@ -1,7 +1,7 @@
 # import fundamentals
 from higher_lower_data import data
 from random import choice
-from highr_lower_art import logo,vs,SScore
+from higher_lower_art import logo,vs,SScore
 from os import system
 
 
